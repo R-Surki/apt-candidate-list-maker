@@ -92,7 +92,7 @@ If this software contributes to a publication, presentation, thesis, or other re
 
 Suggested acknowledgment:
 
-> The authors acknowledge R-Surki for developing the APT Candidate List Maker, an open-source JupyterLab tool for candidate-ion generation and mass-spectrum visualization based on APAV.
+> The authors acknowledge Roohallah Surki Aliabad for developing the APT Candidate List Maker, a publicly available JupyterLab tool for candidate-ion generation and mass-spectrum visualization based on APAV.
 
 Suggested software citation:
 
@@ -102,4 +102,6 @@ Please also cite APAV separately when it is used in the analysis.
 
 ## License and attribution
 
-This project is an independent companion tool that uses APAV. Before publishing a final repository license, verify compatibility with APAV's license and decide which license you want for your own additions. Keep the APAV attribution and license notices intact.
+This project is an independent companion tool built on APAV. Please retain the APAV attribution and license notices when using or redistributing this work.
+
+The license for this project will be specified in the repository's `LICENSE` file. Users should verify license compatibility with APAV before redistributing modified or combined versions.
