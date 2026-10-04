@@ -1,0 +1,6 @@
+numpy
+plotly
+periodictable
+apav
+ipywidgets
+jupyterlab
