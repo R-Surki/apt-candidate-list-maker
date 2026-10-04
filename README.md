@@ -106,6 +106,8 @@ Please also cite APAV separately when it is used in the analysis.
 
 ## License and attribution
 
+This project is intended to be distributed under the [GNU General Public License v3.0 or later](https://www.gnu.org/licenses/gpl-3.0.html).
+
 This project is an independent companion tool built on APAV. Please retain the APAV attribution and license notices when using or redistributing this work.
 
-The license for this project will be specified in the repository's `LICENSE` file. Users should verify license compatibility with APAV before redistributing modified or combined versions.
+The full license text should be provided in the repository's `LICENSE` file. Users should verify license compatibility with APAV before redistributing modified or combined versions.
