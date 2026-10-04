@@ -8,7 +8,7 @@ The software was developed primarily for analyzing Fe–C–Mn–Al–Si-based a
 
 ## Project relationship to APAV
 
-This project is an independent candidate-list-making GUI built on top of APAV. It does not replace APAV and is not an official APAV interface.
+This project is an independent JupyterLab-based candidate list maker built on top of APAV. It does not replace APAV and is not an official APAV interface.
 
 APAV is intended to be used as a Python library. The APAV documentation explains that a GUI may eventually exist alongside APAV, but not as a replacement, and that APAV already includes interactive plotting tools for selected computations. This project explores that complementary GUI direction for candidate-ion selection and mass-spectrum visualization.
 
@@ -92,11 +92,11 @@ If this software contributes to a publication, presentation, thesis, or other re
 
 Suggested acknowledgment:
 
-> The authors acknowledge [YOUR NAME] for developing the APT Candidate-Ion GUI, an open-source JupyterLab tool for candidate-ion generation and mass-spectrum visualization based on APAV.
+> The authors acknowledge R-Surki for developing the APT Candidate List Maker, an open-source JupyterLab tool for candidate-ion generation and mass-spectrum visualization based on APAV.
 
 Suggested software citation:
 
-> [YOUR NAME]. *APT Candidate-Ion GUI*. GitHub repository: [YOUR GITHUB REPOSITORY URL]. Accessed [DATE].
+> R-Surki. *APT Candidate List Maker*. GitHub repository: <https://github.com/R-Surki/apt-candidate-list-maker>. Accessed [DATE].
 
 Please also cite APAV separately when it is used in the analysis.
 
