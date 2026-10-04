@@ -96,7 +96,11 @@ Suggested acknowledgment:
 
 Suggested software citation:
 
-> R-Surki. *APT Candidate List Maker*. GitHub repository: <https://github.com/R-Surki/apt-candidate-list-maker>. Accessed [DATE].
+> Roohallah Surki Aliabad. *APT Candidate List Maker*. GitHub repository: <https://github.com/R-Surki/apt-candidate-list-maker>. Accessed [DATE].
+
+Suggested APAV citation:
+
+> Smith, J. D., & Young, M. L. (2023). APAV: An Open-Source Python Package for Mass Spectrum Analysis in Atom Probe Tomography. *Journal of Open Source Software, 8*(83), 4862. <https://doi.org/10.21105/joss.04862>
 
 Please also cite APAV separately when it is used in the analysis.
 
